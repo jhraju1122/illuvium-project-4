@@ -1,0 +1,33 @@
+body{
+    background: linear-gradient(to bottom, #000000 9%, #12071b 74%);
+    height: 100%;
+}
+#playnow-btn{
+    height: 50px;
+    width: 150px;
+    color: white;
+    font: 700;
+    background: linear-gradient(to bottom, #2d026e 11%, #0b010d 74%);
+
+}
+#account-btn{
+    height: 50px;
+    width: 150px;
+    color: white;
+    font: 700;
+    background: linear-gradient(to bottom, #0f0223 11%, #0b010d 74%);
+}
+#subscribe-btn{
+    background: linear-gradient(to bottom, #0f0223 11%, #470753 74%);
+    font-size: x-large;
+    font-weight: 800;
+}
+
+#Latest-News-card{
+    height: 900px;
+    width: 700px;
+    background-color: #000000a2;
+    position: relative;
+    bottom: 900px;
+    left: 1000px;
+}
